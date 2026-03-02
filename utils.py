@@ -3,6 +3,8 @@
 utils.py - Utility functions for the application
 """
 
+# A collection of helpful utility functions
+
 
 def greet(name):
     """
